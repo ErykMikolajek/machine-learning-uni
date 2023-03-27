@@ -115,8 +115,8 @@ X_iris_train, X_iris_test, y_iris_train, y_iris_test = train_test_split(iris_df_
 # In[16]:
 
 
-clf_svc_iris = LinearSVC(C=1, loss='hinge', random_state=42)
-svc_scaled_iris = Pipeline([('scaler', StandardScaler()), ('linear_svc', LinearSVC(C=1, loss='hinge', random_state=42))])
+clf_svc_iris = LinearSVC(C=1, random_state=42)
+svc_scaled_iris = Pipeline([('scaler', StandardScaler()), ('linear_svc', LinearSVC(C=1, random_state=42))])
 
 
 # In[17]:
