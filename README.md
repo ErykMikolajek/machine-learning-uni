@@ -9,5 +9,6 @@ Small machine learning projects from my college classes
 - lab03 - regression models: linear regression, k neighbors regressor, polynomial regression  
 - lab04 - using SVM to classify instances on breast cancer and iris datasets  
 - lab05 - Decision Tree Classifier used on breast cancer dataset classification and Decision Tree Regressor used to predict continous variables  
+- lab06 - ensemble methods - using Bagging, Pasting, AdaBoost and Gradient Boosting to cassify instances on breast cancer dataset  
 \
 ... more to come
