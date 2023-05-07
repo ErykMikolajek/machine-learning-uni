@@ -11,5 +11,6 @@ Small machine learning projects from my college classes
 - lab05 - Decision Tree Classifier used on breast cancer dataset classification and Decision Tree Regressor used to predict continous variables  
 - lab06 - ensemble methods - using Bagging, Pasting, AdaBoost and Gradient Boosting to cassify instances on breast cancer dataset  
 - lab07 - clustering methods - kmeans, dbscan  
+- lab08 - dimensionality reduction using PCA  
 \
 ... more to come
