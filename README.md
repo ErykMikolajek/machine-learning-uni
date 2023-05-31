@@ -13,5 +13,6 @@ Small machine learning projects from my college classes
 - lab07 - clustering methods - kmeans, dbscan  
 - lab08 - dimensionality reduction using PCA  
 - lab09 - introduction to neural nets - with sklearn Perceptron()  
+- lab10 - classification and regression using Keras Sequential model  
 \
 ... more to come
