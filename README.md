@@ -14,5 +14,6 @@ Small machine learning projects from my college classes
 - lab08 - dimensionality reduction using PCA  
 - lab09 - introduction to neural nets - with sklearn Perceptron()  
 - lab10 - classification and regression using Keras Sequential model  
+- lab11 - hyperparameter tuning using SciKeras and Keras Tuner  
 \
 ... more to come
